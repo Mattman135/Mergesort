@@ -1,0 +1,54 @@
+.divContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 2px;
+}
+
+.divContainer div {
+  background-color: green;
+}
+
+.divContainer #div1 {
+  width: 10px;
+  height: calc(2 * 10px);
+}
+
+.divContainer #div2 {
+  width: 10px;
+  height: 40px;
+}
+
+.divContainer #div3 {
+  width: 10px;
+  height: 10px;
+}
+.divContainer #div4 {
+  width: 10px;
+  height: 60px;
+}
+.divContainer #div5 {
+  width: 10px;
+  height: 80px;
+}
+.divContainer #div6 {
+  width: 10px;
+  height: 50px;
+}
+.divContainer #div7 {
+  width: 10px;
+  height: 30px;
+}
+.divContainer #div8 {
+  width: 10px;
+  height: 70px;
+}
+.divContainer #div9 {
+  width: 10px;
+  height: 100px;
+}
+.divContainer #div10 {
+  width: 10px;
+  height: 150px;
+}
